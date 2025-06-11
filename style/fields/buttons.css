@@ -1,6 +1,6 @@
 button {
   all: unset;
-  font-wheight: 500;
+  font-weight: 500;
   color: var(--text-highlight);
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
@@ -23,10 +23,12 @@ button {
     border: 1px solid var(--text-hightlight);
 
 
-      &:hover,
+    &:hover,
     &:focus {
       color:  #E43A12;
       outline: .25rem solid var(--surface-secondary);
     }
   
+}
+
 }
