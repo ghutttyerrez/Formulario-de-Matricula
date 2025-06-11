@@ -20,8 +20,9 @@ label {
 
 input:focus,
 textarea:focus,
-select:focus input[type="date"]:focus-within {
-  outline: 1px solid var(--surface-secondary);
+select:focus,
+input[type="date"]:focus-within {
+  outline: 0.25rem solid var(--surface-secondary);
   border: 0.125rem solid var(--stroke-hightlight);
   outline-offset: 0.1px;
 }
@@ -57,7 +58,7 @@ select {
   gap: 1.25rem;
 }
 
-.input-wrapper:has[disable] {
+.input-wrapper:has([disable]) {
   opacity: 0.5;
 }
 
@@ -65,7 +66,7 @@ input {
   &[disabled] {
     background-color: var(--surface-disabled);
 
-    boder: 1px solid var(--stroke-default);
+    border: 1px solid var(--stroke-default);
     color: var(--text-primary);
   }
 
