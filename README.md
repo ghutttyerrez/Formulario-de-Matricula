@@ -1,6 +1,5 @@
 # Formulário de Matrícula 📝
 
-![preview](https://ghutttyerrez.github.io/Formulario-de-Matricula/assets/preview.png) 
 
 Projeto desenvolvido como parte dos estudos da Rocketseat, utilizando **HTML** e **CSS** para criar um formulário de matrícula moderno e responsivo.
 
@@ -40,3 +39,12 @@ Se quiser rodar o projeto localmente:
 git clone https://github.com/ghutttyerrez/Formulario-de-Matricula.git
 cd Formulario-de-Matricula
 abra o arquivo index.html em seu navegador
+
+
+🧑‍💻 Autor
+
+Feito com 💙 por Jeferson Gutierrez Garai
+🚀 Em transição de carreira para a área de tecnologia
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+🌐 Foco em desenvolvimento web
+
