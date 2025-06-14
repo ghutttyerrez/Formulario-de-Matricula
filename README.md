@@ -31,6 +31,14 @@ Durante a construção desse projeto, foram praticados conceitos como:
 - Boas práticas de organização de código
 - Publicação com GitHub Pages
 
+🧑‍💻 Autor
+
+Feito com 💙 por Jeferson Gutierrez Garai
+🚀 Em transição de carreira para a área de tecnologia
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+🌐 Foco em desenvolvimento web
+
+
 ## 📁 Como usar localmente
 
 Se quiser rodar o projeto localmente:
@@ -41,10 +49,4 @@ cd Formulario-de-Matricula
 abra o arquivo index.html em seu navegador
 
 
-🧑‍💻 Autor
-
-Feito com 💙 por Jeferson Gutierrez Garai
-🚀 Em transição de carreira para a área de tecnologia
-📚 Estudante de Análise e Desenvolvimento de Sistemas
-🌐 Foco em desenvolvimento web
 
